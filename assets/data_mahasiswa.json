@@ -14,7 +14,7 @@
     {
         "id": 2,
         "nama": "Egha Arya Affandi",
-        "foto": "assets/images/female_profile.png",
+        "foto": "assets/images/male_profile.png",
         "nim": "221080200077",
         "jurusan": "Sistem Informasi",
         "perguruan_tinggi": "Universitas Muhammadiyah Sidoarjo",
@@ -40,7 +40,7 @@
     {
         "id": 4,
         "nama": "Fuad Fakhruddin",
-        "foto": "assets/images/female_profile.png",
+        "foto": "assets/images/male_profile.png",
         "nim": "221080200xxx",
         "jurusan": "Informatika",
         "perguruan_tinggi": "Universitas Muhammadiyah Sidoarjo",
@@ -79,7 +79,7 @@
     {
         "id": 7,
         "nama": "Ricki Maulana",
-        "foto": "assets/images/female_profile.png",
+        "foto": "assets/images/male_profile.png",
         "nim": "221080200xxx",
         "jurusan": "Sistem Informasi",
         "perguruan_tinggi": "Universitas Muhammadiyah Sidoarjo",
